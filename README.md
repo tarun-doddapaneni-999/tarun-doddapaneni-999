@@ -14,7 +14,7 @@ AWS Certified, RHCSA Certified and RHCOA Certified.
 * 🤝  I'm open to collaborating on AWS cloud projects.
 * ⚡  I'm a YouTuber.... but don't tell anyone.
 
-<a href="https://www.github.com/tarun-doddapaneni" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/tarun-doddapaneni-999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tarun-doddapaneni?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a>
 
 ### Skills
